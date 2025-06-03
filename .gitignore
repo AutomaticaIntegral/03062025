@@ -1,0 +1,10 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo
+*.bak
+*~
+
+# Archivos grandes (>100MB)
+*.7z
